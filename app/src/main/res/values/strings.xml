@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Frequenza</string>
+    <string name="fullName">Enter Full Name</string>
+    <string name="email">Enter Email Id</string>
+    <string name="password">Enter Password</string>
+    <string name="confirmPassword">Confirm Password</string>
+    <string-array name="genderVals">
+        <item>Male</item>
+        <item>Female</item>
+    </string-array>
+
+</resources>
